@@ -1,8 +1,6 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 14
-VisualStudioVersion = 14.0.24720.0
-MinimumVisualStudioVersion = 10.0.40219.1
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "LABo8", "LABo8\LABo8.pyproj", "{8A339EB5-1718-4F9B-8158-F1E4FA5F3E9F}"
 EndProject
 Global
